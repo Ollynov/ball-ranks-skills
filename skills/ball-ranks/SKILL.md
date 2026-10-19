@@ -1,6 +1,15 @@
 ---
 name: ball-ranks
-description: Get published Ball Ranks fantasy basketball and football rankings and player projections through its read-only MCP server or REST API. Use for draft boards, player comparisons, and football weekly start/sit questions grounded in Ball Ranks data.
+description: Ball Ranks AI fantasy football (NFL) and fantasy basketball (NBA) rankings and projections for agents. Use for weekly NFL start/sit by position (QB, RB, WR, TE, K, DST) in PPR, half-PPR, or standard scoring; season draft boards for both sports; and player rank and projection lookups, via the read-only Ball Ranks MCP server or REST API. Model Zero works without an API key.
+version: 1.0.1
+metadata:
+  openclaw:
+    emoji: "🏀"
+    homepage: https://ballranks.com/developers
+    envVars:
+      - name: BALL_RANKS_API_KEY
+        required: false
+        description: Optional Ball Ranks API key for Premium Model One. Send as Authorization Bearer on Ball Ranks requests only; Model Zero works without it.
 ---
 
 # Ball Ranks
