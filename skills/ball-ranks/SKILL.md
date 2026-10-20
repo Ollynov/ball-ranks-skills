@@ -1,7 +1,7 @@
 ---
 name: ball-ranks
 description: Ball Ranks AI fantasy football (NFL) and fantasy basketball (NBA) rankings and projections for agents. Use for weekly NFL start/sit by position (QB, RB, WR, TE, K, DST) in PPR, half-PPR, or standard scoring; season draft boards for both sports; and player rank and projection lookups, via the read-only Ball Ranks MCP server or REST API. Model Zero works without an API key.
-version: 1.0.1
+version: 1.0.2
 metadata:
   openclaw:
     emoji: "🏀"

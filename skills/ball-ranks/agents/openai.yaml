@@ -1,5 +1,5 @@
 interface:
-  display_name: "Ball Ranks"
+  display_name: "Ball Ranks Fantasy Sports"
   short_description: "AI fantasy rankings and projections for NFL and NBA in your agent: weekly NFL start/sit boards by position (PPR, half-PPR, standard), season draft boards for both sports, and player projections. Read-only MCP + REST; Model Zero needs no API key."
   icon_small: "./icon.png"
   icon_large: "./icon.png"
