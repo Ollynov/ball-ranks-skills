@@ -81,7 +81,7 @@ Cite the returned `sourceUrl`. Identify Model Zero or Model One from `meta.model
 
 ## Limits and errors
 
-Current documented allowances: anonymous access 10 requests/day per originating IP; Free keys 8/minute and 80/day; Premium keys 60/minute and 1,000/day. REST and MCP share access limits. An additional IP guard applies before authentication. Prefer one ranking board over repeated player lookups when it answers the task.
+Current documented allowances: anonymous access 50 requests/day per originating IP; Free keys 8/minute and 80/day; Premium keys 60/minute and 1,000/day. REST and MCP share access limits. An additional IP guard applies before authentication. Prefer one ranking board over repeated player lookups when it answers the task.
 
 | Response | Action |
 | --- | --- |
